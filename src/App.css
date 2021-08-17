@@ -1,0 +1,27 @@
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 800 !important;
+}
+a {
+  text-decoration: none !important;
+}
+.post-preview > a > .post-subtitle {
+  font-weight: 300 !important ;
+  margin-bottom: 0.625rem !important;
+}
+header.masthead .page-heading h1,
+header.masthead .page-heading .h1,
+header.masthead .site-heading h1,
+header.masthead .site-heading .h1 {
+  font-size: 3rem;
+}
